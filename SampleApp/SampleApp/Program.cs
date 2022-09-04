@@ -7,6 +7,7 @@ namespace SampleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Good times! Woo Hoo!");
+            Console.WriteLine("More output");
         }
     }
 }
