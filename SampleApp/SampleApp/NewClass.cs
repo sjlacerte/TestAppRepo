@@ -9,5 +9,6 @@ namespace SampleApp
         // Added comment 1
         // Added comment 2
         // Another feature
+        // Yet another feature
     }
 }
