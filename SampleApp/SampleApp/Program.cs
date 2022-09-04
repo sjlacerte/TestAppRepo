@@ -8,6 +8,7 @@ namespace SampleApp
         {
             Console.WriteLine("Good times! Woo Hoo!");
             Console.WriteLine("More output");
+            Console.WriteLine("Even more output");
         }
     }
 }
