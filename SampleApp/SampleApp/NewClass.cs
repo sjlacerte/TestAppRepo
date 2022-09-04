@@ -6,5 +6,6 @@ namespace SampleApp
 {
     class NewClass
     {
+        // Added comment 1
     }
 }
